@@ -10,8 +10,13 @@
 
 h3 {
     text-align: center;
+   
 }
-
+.heading{
+    text-align: center;
+    color: rgb(11, 27, 27);
+    padding-top: 20px;
+}
 .product-container {
     display: flex;
 }
